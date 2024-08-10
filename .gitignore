@@ -42,7 +42,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-.env
-pubspec.lock
-firebase.json
-database.rules
+*.env
+*pubspec.lock
+*firebase.json
+*database.rules
