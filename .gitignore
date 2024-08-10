@@ -1,0 +1,5 @@
+.env
+venv
+
+locker.py
+firebase-debug.*.log*
