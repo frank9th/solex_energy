@@ -46,3 +46,4 @@ app.*.map.json
 *pubspec.lock
 *firebase.json
 *database.rules
+/lib/firebase_options.dart
