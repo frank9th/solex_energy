@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "48837244410",
+    "firebase_url": "https://solex-green-energy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solex-green-energy",
+    "storage_bucket": "solex-green-energy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48837244410:android:5b01b0499227f46a362043",
+        "android_client_info": {
+          "package_name": "com.meklint.solex.solex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilZgbyNrjkWCSy5Rdj3PS8uavH-onK0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
